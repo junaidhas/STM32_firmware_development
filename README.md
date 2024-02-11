@@ -3,7 +3,7 @@
 This project entails the development of baremetal firmware for STM32 microcontrollers, focusing on verifying GPIO drivers, UART communication, and DMA functionality. Utilizing the C programming language, the firmware provides low-level control and direct hardware interaction, demonstrating proficiency in embedded systems development.
 
 ## Features:
-# GPIO Drivers: Implemented and verified GPIO drivers to control input and output pins, enabling interfacing with external peripherals and sensors.
+-- GPIO Drivers: Implemented and verified GPIO drivers to control input and output pins, enabling interfacing with external peripherals and sensors.
 -- UART Communication: Established UART communication for serial data transmission and reception, facilitating communication with other devices or systems.
 -- DMA Functionality: Leveraged Direct Memory Access (DMA) functionality for efficient data transfer between memory and peripherals, optimizing performance and minimizing CPU overhead.
 ## Implementation Details:

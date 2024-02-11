@@ -16,5 +16,6 @@ RTOS Integration: Investigating the integration of a Real-Time Operating System 
 ## Conclusion:
 The STM32 baremetal firmware development project showcases expertise in embedded systems programming and firmware development methodologies. By verifying GPIO drivers, UART communication, and DMA functionality, the project demonstrates proficiency in low-level hardware abstraction and firmware optimization for STM32 microcontrollers.
 
-## Literature Review Paper: Additionally, authored a comprehensive project report resembling a literature review paper, detailing in-depth analysis, methodologies, and findings related to STM32 baremetal firmware development. For access to the full report, please refer to [link to report]--->.
+## Literature Review Paper: 
+Additionally, authored a comprehensive project report resembling a literature review paper, detailing in-depth analysis, methodologies, and findings related to STM32 baremetal firmware development. For access to the full report, please refer to [link to report]--->.
 [STM32 firmware development project final report.pdf](https://github.com/junaidhas/STM32_firmware_development/files/14231406/STM32.firmware.development.project.final.report.pdf)

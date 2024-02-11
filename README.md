@@ -1,5 +1,5 @@
 #STM32 Baremetal Firmware Development
-##Overview:
+#Overview:
 This project entails the development of baremetal firmware for STM32 microcontrollers, focusing on verifying GPIO drivers, UART communication, and DMA functionality. Utilizing the C programming language, the firmware provides low-level control and direct hardware interaction, demonstrating proficiency in embedded systems development.
 
 ##Features:
